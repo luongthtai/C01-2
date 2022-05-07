@@ -60,3 +60,7 @@ body {
 .avt {
   text-align: center;
 }
+
+video {
+  width: 100%;
+}
